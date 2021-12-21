@@ -20,10 +20,9 @@ A postgraduate student at <a href="https://www.ucas.ac.cn" target="_blank" >Univ
   <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. (from the template) </summary>
   <ul>
     <br>
-    <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
-    <li>Avoid over using social media</li>
-    <li>Read more books</li>
-    <li>Adopting the minimalism life style</li>
+    <li>Try to learn Data Structures and Algorithms</li>
+    <li>Try to learn more c++ and GOF Design Pattern</li>
+    <li>Try to do some leetcode</li>
     <li>🔜</li>
   </ul>
 </details>
